@@ -14,7 +14,7 @@ constant: REPORTING_DATASET {
 }
 
 constant: CLIENT {
-  value: "500"
+  value: "Client ID"
   export: override_required
 }
 
